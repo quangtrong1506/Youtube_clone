@@ -2,4 +2,4 @@
 Clone trang chủ Youtube
 \
 xem demo: 
-[link](http://qt.youtube-clone.github.oi/)
+[link](https://quangtrong1506.github.io/Youtube_clone/)
